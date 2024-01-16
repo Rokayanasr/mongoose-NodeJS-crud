@@ -1,0 +1,15 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.0.4"
+  },
+  "description": ""
+}
